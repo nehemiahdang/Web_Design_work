@@ -1,0 +1,79 @@
+body {
+    background-color: lightgrey;
+}
+
+#lat-bar {
+    font-size: 25px;
+    color: white;
+    padding: 15px 15px 15px 15px;
+    background-color: #20B2AA;
+    display:inline-block;
+}
+
+#green-lat {
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+#land-sum {
+    margin: 10px;
+}
+
+.dropdown .btn {
+    color: black;
+    background-color: white;
+    border: 0;
+}
+
+.summary {
+    padding-left: 10px;
+}
+
+.sum-pic {
+    float: left;
+}
+
+h1 {
+    color: #20B2AA;
+    padding-top: 30px;
+}
+
+h2 {
+    color: #20B2AA;
+    padding-top: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.visualizations {
+    padding-left: 10px;
+}
+
+.clearing-bar {
+    color: black;
+    background-color: white;
+    border: 0;
+}
+
+.fig1 {
+    border: 5px solid #20B2AA;
+}
+
+.fig2 {
+    border: 5px solid #20B2AA;
+}
+
+.fig3 {
+    border: 5px solid #20B2AA;
+}
+
+.fig4 {
+    border: 5px solid #20B2AA;
+}
+
+h2.comp-lat {
+    text-align: center;
+    color: #20B2AA;
+}
